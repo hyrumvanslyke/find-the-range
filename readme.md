@@ -1,3 +1,3 @@
 # finding the range morning challenge
 
-In today's morning challenge we were challenged to find the highest and lowest numbers in an array by looping through it.
+In today's morning challenge we were challenged to find the highest and lowest numbers in an array by looping through it. I did this by using a for loop.
